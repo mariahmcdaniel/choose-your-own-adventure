@@ -261,7 +261,7 @@ if alarm.lower() == "s":
                 
                   ''')
                 
-                print("\n\nLooks like you just won 20 million dollars! Incredible!\n\n")
+                print("\n\n                  ...Looks like you just won 20 MILLION DOLLARS! Incredible!\n\n\n\n                                        CONGRATS!!!!")
                 print('''
                        .----------------------------------------------------.
                         |                                                    |
