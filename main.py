@@ -25,7 +25,7 @@ print('''
 
       ''')
 
-print("\nHowdy, this is a choose your own adventure game! Make your selections based on the prompts to test your fate!\n\n\n\n")
+print("\n\n                Howdy, this is a choose your own adventure game! Make your selections based on the prompts to test your fate!\n\n\n\n")
 
 print('''
 
@@ -85,7 +85,7 @@ print(
 )
 
 
-alarm = input("\n\n\n\"Beeeep Beeeep\" ugh theres your alarm, another day of work.. time to get up... or do you want to press snooze? enter \"G\" to get up or \"S\" to snooze: ")
+alarm = input("\n\n\n             \"Beeeep Beeeep\" Ugh theres your alarm, another day of work.. time to get up... \n\n                   -or do you want to press snooze? \n\n        Enter \"G\" to get up or \"S\" to snooze: ")
 
 if alarm.lower() == "s":
     print("\n\n\n                 Ahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. \n\n    Time for breakfast! \n\nWhat are you having today?\n")
@@ -398,8 +398,8 @@ if alarm.lower() == "s":
                                       
                                                                                                   (.,------.__
                               ███▀▀▀██┼███▀▀▀███┼███▀█▄█▀███┼██▀▀▀                             _.'"            `.
-                              ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼█┼┼┼██┼██┼┼┼                           .'  .'   `, `. `.   \
-                              ██┼┼┼▄▄▄┼██▄▄▄▄▄██┼██┼┼┼▀┼┼┼██┼██▀▀▀                           . .'   .'/''--...__`.\\
+                              ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼█┼┼┼██┼██┼┼┼                           .'  .'   `, `. `.   l
+                              ██┼┼┼▄▄▄┼██▄▄▄▄▄██┼██┼┼┼▀┼┼┼██┼██▀▀▀                           . .'   .'/''--...__`.ll
                               ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██┼┼┼                          . .--.`.  ' "-.     '.  |
                               ███▄▄▄██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██▄▄▄                          ''  .'  _.' .())  .--":/
                               ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼                          ''(  \_\   O  '   (()(
@@ -412,15 +412,41 @@ if alarm.lower() == "s":
                                                                                             .' \  /\      / /  `.
                                                                                           .'    \(  \    /|/     `.
                                                                                         .'           \__/          `.
-                                                                                      //      |        o      |     \\
+                                                                                      //      |        o      |      ))
                                                                                       ||      |               |      ||
                                                               
 
             ''')
 
     else:
-        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. \n\n        You're covered in syrup and you need to change clothes.. \n\nGreat. \n\n      You're already running late. \n\nYou quicky hop in the shower to clean off, put on a new outfit and head out the door.\n")
+        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. \n\n        You're covered in syrup and you need to change clothes.. \n\nGreat. \n\n      You're already running late. \n\n")
 
+        print('''
+
+                                         .|||||.     
+                                        |||||||||    
+                                      || .   . ||   
+                                      ||   ^   ||   
+                                      |||\  =  /|||  
+                                      |||||`-'|||||  
+                                      |.--'   `--.|  
+                                      / _.-===-._ \  
+                                      |(  .'_\\  ) \ 
+                                      \ .' /  |  |> )
+                                      \_.'   |  | / 
+                                      /      |  \(  
+                                      |       |   |  
+                                      |       |  /   
+                                      |______/___|
+                                        ( )|( )     
+                                        /  |  \     
+                                        |   |   |    
+                                        \  |  /     
+                                         ) | (      
+                                        mmo^omm
+        
+              ''')
+        print("\n\n            ....You quicky hop in the shower to clean off, put on a new outfit and head out the door.\n\n")
         print('''
 
                         .      ..
@@ -431,7 +457,7 @@ if alarm.lower() == "s":
           
               ''')
         
-        print("\n\n\nYou speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss calls you into his office and lets you know that this is the last straw.. \n\n                      You clearly have no respect for punctuality!\n\n\n          You're fired :( \n\n")
+        print("\n\n\n     You speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss calls you into his office and lets you know that this is the last straw.. \n\n                      You clearly have no respect for punctuality!\n\n\n          You're fired :( \n\n")
 
         print('''
         
@@ -514,7 +540,7 @@ else:
             './  './   '...-'            |_._|
 
           ''')
-    print("\n\n**BUZZZZ** **BUZZZ** your phone is ringing.. \nit's your work calling.. \n\nYou look at the time- 11:30?!?! \nYou must have dozed off after you turned on the TV.. this is terrible.. \n\nyou nervously pick up the call..\n\n")
+    print("\n\n                       **BUZZZZ** **BUZZZ** your phone is ringing.. \n\n            it's your work calling.. \n\n                You look at the time- 11:30?!?! \n\n            You must have dozed off after you turned on the TV.. this is terrible.. \n\n       you nervously pick up the call..\n\n")
     print('''
     
            ████████████████████              ████████████                          
