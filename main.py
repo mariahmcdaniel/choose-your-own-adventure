@@ -60,6 +60,22 @@ if alarm.lower() == "s":
     if breakfast.lower == "e":
         print("Sunny side up! You grab your coffee and head out the door. Oops looks like your tank is on empty... but you really only have exactly enough time to get straight to work without being late... AGAIN.\n")
         gas = input("What should you do?? Enter \"W\" to go straight to work or \"G\" to stop for gas: ")
-         
+        if gas.lower() == "g":
+            print('''
+            
+              .-""""-.
+          |==  ==|-.
+          |~~ ~~~|`\\
+          |LILILI| ||
+          |      |//
+          |      |/
+          |      |
+        __|______|__
+       [____________] 
+
+            ''')
+
+            print("\n Fillerup! You pump your gas and head inside to pay...\n")
+            
 
 
