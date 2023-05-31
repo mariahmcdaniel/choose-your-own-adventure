@@ -1,5 +1,39 @@
-print("\nHowdy, this is a choose your own adventure game! Make your selections based on the prompts to test your fate!\n")
+print("\nHowdy, this is a choose your own adventure game! Make your selections based on the prompts to test your fate!\n\n\n\n")
 
+print('''
+
+       .::""-,                      .::""-.
+      /::     \                    /::     )
+      |::     |   _..--""""--.._   |::     |
+      '\:.__ /  .'              '.  \:.__ /         Z
+      ||____|.'                  '.||____|    Z                 
+      ||:.  |            .,.,       |:.z |                      |--------------|
+      ||:.  |          (((((())   z |:.  |                      |    Monday    |
+      ||:.  |        ((('_  _`) '   |:.  |                      |   Morning    |
+      ||:.  |  _..-- ((G   \ |)'---.|:.  |                      |______________|
+      ||:.  | `      (((`   " ,     \:.  |
+      ||:.  |: :      .((\.:~:  .--._.-""-;
+      ||:.  |: : _.---``````---/    '.   _.`.
+      ||:.  | .-'  _,'```'-...'   _ .-'.'    '-.
+      ||:. .-'   .'        '. . '      '.      `'.
+      ||: ;.' .`'        _. '`'-.         '.   . ''-._
+      ||:. :   '.     .'          '.  . ' ' '.`       '._
+      ||:. :    '. .'     .::""-: .''.        ' .   . ' ' :::""-.
+      ||:. '     ..' .    /::     \    '.        . '.    /::     )
+      ||:  :  . .'      '.|::     |    _.:---""---.._'   |::     |
+      ||.  ;  .:          '\:.__ /   .'              '.   \:.__ /
+      ||:  ;  : '.       . ||____|_.'                  '._||____|
+      ||:  ;__:   '.   .'  ||:.  |                        ||:.  |
+      ||:___| \     '. :   ||:.  |                        ||:.  |
+      [[____]  '.     '.-._||:.  |                        ||:.  |
+                  '.    :  ||:.  |                        ||:.  |
+                    '.  :  ||:.  |                        ||:.  |
+                      '-:  ||:.  |                        ||:.  |
+                        '._||:.  |________________________||:.  |
+                           ||:___|'-.-'-.-'-.-'-.-'-.-'-.-||:___|
+                           [[____]                        [[____]
+
+      \n\n\n''')
 print( 
     '''     _  _
         |) |_ |_ |)   |
@@ -233,7 +267,7 @@ if alarm.lower() == "s":
 
                       ''')
     else:
-        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. You're covered in syrup and you need to change clothes.. Great. You're already running late. You quicky hop in the shower to clean off, put on a new outfit and head out the door.")
+        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. \n\n        You're covered in syrup and you need to change clothes.. \nGreat. \nYou're already running late. \n\nYou quicky hop in the shower to clean off, put on a new outfit and head out the door.\n")
 
         print('''
 
