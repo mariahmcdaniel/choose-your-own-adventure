@@ -23,5 +23,37 @@ alarm = input("\"Beeeep Beeeep\" ugh theres your alarm, another day of work.. ti
 
 if alarm.lower() == "s":
     print("ahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. Time for breakfast! What are you having today?\n")
+    print(
+        '''
+                       .-~-.
+                     .'     '.
+                    /         \\
+            .-~-.  :           ;
+          .'     '.|           |
+         /         \           :
+        :           ; .-~""~-,/
+        |           /`        `'.
+        :          |             \\
+         \         |             /
+          `.     .' \          .'
+            `~~~`    '-.____.-'
+                       
     
-     
+    '''
+        )
+    print(
+        '''
+        
+        _.-------._
+      .' _|_|_|_|_ '.
+     / _|_|_|_|_|_|_ \\
+    | |_|_|_|_|_|_|_| |
+    |_|_|_|_|_|_|_|_|_|
+    | |_|_|_|_|_|_|_| |
+    | |_|_|_|_|_|_|_| |
+     \ -|_|_|_|_|_|- /
+      '. -|_|_|_|- .'
+        `---------`
+        '''
+    )
+    breakfast = input("\nAre you feeling eggs or waffles? Enter \"E\" for eggs or \"W\" for waffles: ")
