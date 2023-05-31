@@ -60,7 +60,7 @@ print(
 alarm = input("\n\n\n\"Beeeep Beeeep\" ugh theres your alarm, another day of work.. time to get up... or do you want to press snooze? enter \"G\" to get up or \"S\" to snooze: ")
 
 if alarm.lower() == "s":
-    print("\n\n\nahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. Time for breakfast! What are you having today?\n")
+    print("\n\n\n                 Ahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. \n\n    Time for breakfast! \n\nWhat are you having today?\n")
     print(
         '''
                        .-~-.
@@ -94,24 +94,24 @@ if alarm.lower() == "s":
         `---------`
         '''
     )
-    breakfast = input("\nAre you feeling eggs or waffles? Enter \"E\" for eggs or \"W\" for waffles: ")
+    breakfast = input("\n\n        Are you feeling eggs or waffles? \nEnter \"E\" for eggs or \"W\" for waffles: ")
     if breakfast.lower() == "e":
-        print("\n\n\nSunny side up! You grab your coffee and head out the door. Oops looks like your tank is on empty... but you really only have exactly enough time to get straight to work without being late... AGAIN.\n")
+        print("\n\n\nSunny side up! You grab your coffee and head out the door. \n\n            You get in your car.. \n\n        hmmmm looks like your tank is on empty... \n\n   but you really only have exactly enough time to get straight to work without being late... \n         AGAIN.\n")
         gas = input("\n\n\n               What should you do?? Enter \"W\" to go straight to work or \"G\" to stop for gas: ")
         if gas.lower() == "g":
             print('''
             
-              .-""""-.
-          |==  ==|-.
-          |~~ ~~~|`\\
-          |LILILI| ||
-          |      |//
-          |      |/
-          |      |
-        __|______|__
-       [____________] 
+                  .-""""-.
+                  |==  ==|-.
+                  |~~ ~~~|`\\
+                  |LILILI| ||
+                  |      |//
+                  |      |/
+                  |      |
+                __|______|__
+              [____________] 
 
-            ''')
+                  ''')
 
             print("\n\nFillerup! You pump your gas and head inside to pay...\n\n")
             print('''
@@ -266,8 +266,86 @@ if alarm.lower() == "s":
                         "                                  `._.'
 
                       ''')
+        else:
+            print("\n\n\n                        You start driving...")
+            print('''
+            
+                    -           __
+                  --          ~( @\   \\
+                  ---   _________]_[__/_>________
+                      /  ____ \ <>     |  ____  \\
+                      =\_/ __ \_\_______|_/ __ \__D
+                  ________(__)_____________(__)____
+
+                  ''') 
+            print("      ...But you dont make it very far\n\n")
+            print('''
+                                    ____
+                              ..--< ... >---..                                
+                       ON  ..  --        --    ..  NI                        
+                     N          NNN$. .   .INND.       N                      
+                  M8      .MN                    .NM.     +M.                  
+              ,M     .N.               .                M.    N.               
+           .M    .N.                  N.N                   N.   M             
+          :    M.                     N.N                    .N    :           
+         M    N        ND             N.N           X X         N. .M          
+        D   .M          MM            N.N          D N             M   N         
+       ..   .            N D          N.N        , N                ..  .         
+      .M   .7    MM                             ~NN                  O   .     
+      M    M      NM                                                  N   .    
+     ..   N       .D.D                                                .N  .      
+    .M   .         ....N                                               N  -    
+    .    ?       NNNNNDM.N                               NNNNNFF       I   .     
+    N   .        N NNN.EEpN                              F.NNNNF       .   N     
+   .N  M         N M      XlNO                           F.N           .M  N     
+   .   N         N DDNE     mN.N                         F.NNNF         N  ..    
+   .   N         N NMME       mVN.p  ._-_ .              F.NNNF        N   |   
+   .  .M         N M            l.N .I   I  N            F.N           M  .Z    
+   .  .M         N NNM+E          .N ..    . N           F.N           M  .D    
+   .  .N         MMMMMEE           N  N . 8 N.           MM           N  .:    
+   ..  M                           N       N                          N   p      
+   .I   N                           .NNNNM.                          .M   I  
+     N   N                                                           N   N      
+      M   ,                 --???????????????????--                ..   N       
+      ,.   M               |    OUT         OF     |              .N   ..       
+        N    N             |          GAS          |              M    N         
+         N    N            --NNNNNNNNNNNNNNNNNNNNN--            N   .N          
+           N.   N.                                            N   .N            
+            .8    .M                                       .N.   O=                
+              .N.   .NN.                              . .NN.  .N.                    
+                   -.. MN   --     . :8D8~ .    --   .ZD  ..-                                         
+                          - .NN8. ___    ___  .8NN .  -                          
+                                  . ---- .              
+            
+                  ''')
+            print("\n\n                You ran out of gas!\n\n\n          You call in to work to see if anyone can come help you out...\n\n   ...Your boss answers, he is already in a bad mood based on his tone...\n\n You explain the situation, you're almost in tears at this point.\n\n\n              He clearly has no sympathy for your situation, but he says he will send his assistant to come help you out....\n\n\n                 ...along with all of your things. \"Dont bother coming back here\", he says.\n   \"I've had it, every day its another issue with you! enough is enough!\"\n\n\n                       YOU'RE FIRED! :(\n\n\n")
+
+            print('''
+                                      
+                                                                                                  (.,------.__
+                              ███▀▀▀██┼███▀▀▀███┼███▀█▄█▀███┼██▀▀▀                             _.'"            `.
+                              ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼█┼┼┼██┼██┼┼┼                           .'  .'   `, `. `.   \
+                              ██┼┼┼▄▄▄┼██▄▄▄▄▄██┼██┼┼┼▀┼┼┼██┼██▀▀▀                           . .'   .'/''--...__`.\\
+                              ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██┼┼┼                          . .--.`.  ' "-.     '.  |
+                              ███▄▄▄██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██▄▄▄                          ''  .'  _.' .())  .--":/
+                              ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼                          ''(  \_\   O  '   (()(
+                              ███▀▀▀███┼▀███┼┼██▀┼██▀▀▀┼██▀▀▀▀██▄┼                          '._'      o    (   \ '
+                              ██┼┼┼┼┼██┼┼┼██┼┼██┼┼██┼┼┼┼██┼┼┼┼┼██┼                           `.       o     `--'  '
+                              ██┼┼┼┼┼██┼┼┼██┼┼██┼┼██▀▀▀┼██▄▄▄▄▄▀▀┼                           `.:    .   .------.  '
+                              ██┼┼┼┼┼██┼┼┼██┼┼█▀┼┼██┼┼┼┼██┼┼┼┼┼██┼                            `.     .  '    _  '.'
+                              ███▄▄▄███┼┼┼─▀█▀┼┼─┼██▄▄▄┼██┼┼┼┼┼██▄                              )       .____.-'
+                                                                                              .'`.        (--..
+                                                                                            .' \  /\      / /  `.
+                                                                                          .'    \(  \    /|/     `.
+                                                                                        .'           \__/          `.
+                                                                                      //      |        o      |     \\
+                                                                                      ||      |               |      ||
+                                                              
+
+            ''')
+
     else:
-        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. \n\n        You're covered in syrup and you need to change clothes.. \nGreat. \nYou're already running late. \n\nYou quicky hop in the shower to clean off, put on a new outfit and head out the door.\n")
+        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. \n\n        You're covered in syrup and you need to change clothes.. \n\nGreat. \n\n      You're already running late. \n\nYou quicky hop in the shower to clean off, put on a new outfit and head out the door.\n")
 
         print('''
 
@@ -279,7 +357,7 @@ if alarm.lower() == "s":
           
               ''')
         
-        print("\n\n\nYou speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss immeadiately calls you into his office and lets you know that this is the last straw.. You clearly have no respect for punctuality! You're fired :( \n\n")
+        print("\n\n\nYou speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss calls you into his office and lets you know that this is the last straw.. \n\n                      You clearly have no respect for punctuality!\n\n\n          You're fired :( \n\n")
 
         print('''
         
@@ -413,7 +491,7 @@ else:
 
           ''')
     
-    print("\nIts your boss on the line.. he is very angry.. \n\n         He tells you to come in immediately, clean out our desk area and get lost! \n\n\nYou're fired! :(\n\n")
+    print("\nIts your boss on the line.. he is very angry.. \n\n                  He tells you to come in immediately, clean out our desk area and GET LOST! \n\n\n       You're fired! :(\n\n")
     print('''
     
                               ,::++I7?~                                     
