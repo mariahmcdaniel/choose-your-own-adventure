@@ -376,4 +376,53 @@ else:
           ''')
     
     print("\nIts your boss on the line.. he is very angry.. He tells you to come in immediately, clean out our desk area and get lost! You're fired! :(\n")
+    print('''
     
+                              ,::++I7?~                                     
+                          ,MMMZZZZZZZZZZZZZZZZZDMMM,                            
+                        +MDZZZZZZZZZZZZZZZZZZZZZZZZOMMM                         
+                     ZMZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZMM=                    
+                   8MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOM                   
+                 MNZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZM,                 
+               OMZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOM.               
+              DMZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOM               
+             MDZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZM              
+            MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZM             
+           MOZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZNZZZZZZZO?            
+          8OZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOMMZZZZZZZZM            
+          MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZNDOZZZZOZZZZZM.          
+        .MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOMN::MZZDM8ZZZZZZM                  ███▀▀▀██┼███▀▀▀███┼███▀█▄█▀███┼██▀▀▀
+        MOZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZMM::::MDMM:MZZMMZZZZ8                 ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼█┼┼┼██┼██┼┼┼
+        MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ8MM=::::::::::MOMI:I8ZZZM                 ██┼┼┼▄▄▄┼██▄▄▄▄▄██┼██┼┼┼▀┼┼┼██┼██▀▀▀
+       MZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZOMMO=:::::::::::::::::::::7NZZD.                ██┼┼┼┼██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██┼┼┼  
+       MZZZZZZZZZZZZZZZZZZZZZZZZZZODMMD+:::::::::::::::::::::::::::~MZO?                ███▄▄▄██┼██┼┼┼┼┼██┼██┼┼┼┼┼┼┼██┼██▄▄▄
+       MZZZZZZODMMMMMMMMMMMMMM$~::::::::::::::::::::::::::::::::::::=MO?                ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼  
+       MZZZZZZ8=~::::::::::::::::7M:::::::::::::::::::::::::::::::::~MD+                ███▀▀▀███┼▀███┼┼██▀┼██▀▀▀┼██▀▀▀▀██▄┼
+       MZZZZZZM:::::::::::::~DM::::::::::::::::::::::::M::::::::::::~8M.                ██┼┼┼┼┼██┼┼┼██┼┼██┼┼██┼┼┼┼██┼┼┼┼┼██┼  
+       MZZZZZDM~~:::::::::MM::::::::::::::::::::::::::::M::::::::::~~OM                 ██┼┼┼┼┼██┼┼┼██┼┼██┼┼██▀▀▀┼██▄▄▄▄▄▀▀┼  
+       IDZZZZM:~~::::::IM+:::::::::::::::::::::::::::::::M:::::::::~~M~                 ██┼┼┼┼┼██┼┼┼██┼┼█▀┼┼██┼┼┼┼██┼┼┼┼┼██┼  
+      ~ MOZOM~~~~~:::M+::::~~~~~:::::::::::::::::::::::::::M::::::~~7M                  ███▄▄▄███┼┼┼─▀█▀┼┼─┼██▄▄▄┼██┼┼┼┼┼██▄
+     ?~~7M8D~~~~~~::M:::~~~~~~~~~~~:::::::::::::::~~~~~:::::$:::::~~MD                      
+     M~M~~8~~~~~~~=:::~~~~$MMM 7~=8$MI::::::::::~~~=?=::::~:::8::~~MN           
+     M~+M~M~~~~~~~~:::~DM+DDMMM: IM~::::::::::::?ZM MIM +M~~~~~::~~M ,$         
+     8~D~7M~~~~~~~~~:7N?,  M8M  M?~~::::::::::::~~?:Z+MMM+:M~~:8~~Z7M~~M        
+     ,=M~~:M~~~~~~~~::::~MMMMMM~~~:::::::::::::::::7D .:  ,MNM::~:M=M?7M        
+      M:=:NM~~~~~~~~::::::::::::::::::::~~:::~~~:::::~$DDI~~~:~~~MM~~~MM        
+       M:MM~M~~~~~~~~:+,::::::::::::::~~~~~~~~~~~~:::::::::::~~:M$~~~M=         
+       ,MN::M~~~~~~~~~O:$:::::::::::=~~~~~~~~~~~~~+::::::::::~~MZ:::M           
+            ,M~~~~~~~:.M:::::::::::::+====~~~~~~M?:::::::::::~MMI:+M            
+             MM~~~~~~7.8::::::::::::::~OM~~~~~MM::::::::::::~ZM:+M.             
+              OM~~~~~7.D::::::::::::::::::::::::::::::::::~~~M.=                
+                M~~~~~M~~~:::::::::::::::::::::::::::::::~~:M                   
+                 M?~~~~~~~~::::::::::::::::::::::::::::::~:M~                   
+                  +M:~~~~~~~::::::::MMI?::::~MM::::::::~~:M=                    
+                    M7~~~~~~~:::::M=~~~~~~~~~~~IM::::~~~:M                      
+                     IM~~~~~~~:::::::::~~~~~~~:::::::~~$M                       
+                       MM~~~~~~::::::::::::::::::::~~?M                         
+                         M:~~~~~:::::::::::::::::~~~M,                          
+                           M~~~~~::::::::::::::::~8                             
+                             M~~~:::::::::::::::OM                              
+                               M~~~:::::::::::8M                                
+                                  ?M=~~~~~MMM                   
+    
+          ''')
