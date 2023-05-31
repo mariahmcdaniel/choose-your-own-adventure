@@ -57,3 +57,9 @@ if alarm.lower() == "s":
         '''
     )
     breakfast = input("\nAre you feeling eggs or waffles? Enter \"E\" for eggs or \"W\" for waffles: ")
+    if breakfast.lower == "e":
+        print("Sunny side up! You grab your coffee and head out the door. Oops looks like your tank is on empty... but you really only have exactly enough time to get straight to work without being late... AGAIN.\n")
+        gas = input("What should you do?? Enter \"W\" to go straight to work or \"G\" to stop for gas: ")
+         
+
+
