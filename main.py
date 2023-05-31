@@ -75,7 +75,7 @@ if alarm.lower() == "s":
 
             ''')
 
-            print("\n Fillerup! You pump your gas and head inside to pay...\n")
+            print("\n Fillerup! You pump your gas and head inside to pay...\n\n           ")
             
 
 
