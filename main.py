@@ -1,28 +1,32 @@
 print("\nHowdy, this is a choose your own adventure game! Make your selections based on the prompts to test your fate!\n")
 
 print( 
-    '''     _____
-     _.'_____`._
-   .'.-'  12 `-.`.
-  /,'           `.\.
- //         /    \.\.
-;;         /       ::
-|| 9  ----O      3 ||
-::                 ;;
- \.\.              //
-  \`.           ,'/
-   '.`-.__6__.-'.'
-    ((-._____.-))
-    _))       ((_
-   '--'       '--'
-   '''
+    '''     _  _
+        |) |_ |_ |)   |
+        |) |_ |_ |    .
+          
+             _____                               _  _
+          _.'_____`._                        |) |_ |_ |)   |
+        .'.-'  12 `-.`.                      |) |_ |_ |    .
+      /,'             `.\.
+      //         /      \.\.          _  _
+     ;;          /       ::       |) |_ |_ |)   |
+     || 9  ----O      3  ||       |) |_ |_ |    .
+      ::                 ;;
+      \.\               //
+       \`.           ,'/
+        '.`-.__6__.-'.'
+          ((-._____.-))
+          _))       ((_
+        '--'       '--'
+        '''
 )
 
 
-alarm = input("\"Beeeep Beeeep\" ugh theres your alarm, another day of work.. time to get up... or do you want to press snooze? enter \"G\" to get up or \"S\" to snooze: ")
+alarm = input("\n\n\n\"Beeeep Beeeep\" ugh theres your alarm, another day of work.. time to get up... or do you want to press snooze? enter \"G\" to get up or \"S\" to snooze: ")
 
 if alarm.lower() == "s":
-    print("ahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. Time for breakfast! What are you having today?\n")
+    print("\n\n\nahh 9 more minutes.. you get up and get ready for work at the sound of the next alarm. Time for breakfast! What are you having today?\n")
     print(
         '''
                        .-~-.
@@ -57,9 +61,9 @@ if alarm.lower() == "s":
         '''
     )
     breakfast = input("\nAre you feeling eggs or waffles? Enter \"E\" for eggs or \"W\" for waffles: ")
-    if breakfast.lower == "e":
-        print("Sunny side up! You grab your coffee and head out the door. Oops looks like your tank is on empty... but you really only have exactly enough time to get straight to work without being late... AGAIN.\n")
-        gas = input("What should you do?? Enter \"W\" to go straight to work or \"G\" to stop for gas: ")
+    if breakfast.lower() == "e":
+        print("\n\n\nSunny side up! You grab your coffee and head out the door. Oops looks like your tank is on empty... but you really only have exactly enough time to get straight to work without being late... AGAIN.\n")
+        gas = input("\n\n\n               What should you do?? Enter \"W\" to go straight to work or \"G\" to stop for gas: ")
         if gas.lower() == "g":
             print('''
             
@@ -75,7 +79,7 @@ if alarm.lower() == "s":
 
             ''')
 
-            print("\n Fillerup! You pump your gas and head inside to pay...\n\n")
+            print("\n\nFillerup! You pump your gas and head inside to pay...\n\n")
             print('''
                                 
                                 $$$$$$$$$$
@@ -106,10 +110,10 @@ if alarm.lower() == "s":
             
             ''')
 
-            lottery = input("Would you like to purchase a lottery ticket? Enter \"Y\" for yes or \"N\" for no: ")
+            lottery = input("\n\n        Would you like to purchase a lottery ticket? Enter \"Y\" for yes or \"N\" for no: ")
 
             if lottery.lower() == "y":
-                print("You quickly read the instructions and get to work scratching off the 10 sqaures to reveal your prize....\n\n")
+                print("\n\nYou quickly read the instructions and get to work scratching off the 10 sqaures to reveal your prize....\n\n")
             
 
                 print('''
@@ -149,7 +153,7 @@ if alarm.lower() == "s":
                 
                   ''')
                 
-                print("Looks like you just won 20 million dollars! Incredible!")
+                print("\n\nLooks like you just won 20 million dollars! Incredible!\n\n")
                 print('''
                        .----------------------------------------------------.
                         |                                                    |
@@ -186,7 +190,7 @@ if alarm.lower() == "s":
                                       ``-.___..___....----'"`
                         ''')
             else: 
-                print("Ok, no taking any chances today.. You leave and head to work.. Your boss immeadiately calls you into his office and lets you know that this is the last straw.. You're fired :(")
+                print("\n\nOk, no taking any chances today.. You leave and head to work.. Your boss immeadiately calls you into his office and lets you know that this is the last straw.. You're fired :(\n\n")
                 print('''
                 
                                                   .                .
@@ -229,7 +233,7 @@ if alarm.lower() == "s":
 
                       ''')
     else:
-        print("Waffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. You're covered in syrup and you need to change clothes.. Great. You're already running late. You quicky hop in the shower to clean off, put on a new outfit and head out the door.")
+        print("\n\n\nWaffles it is! As you're eating, you somehow manage to spill sticky syrup all over your shirt and pants. You're covered in syrup and you need to change clothes.. Great. You're already running late. You quicky hop in the shower to clean off, put on a new outfit and head out the door.")
 
         print('''
 
@@ -241,7 +245,7 @@ if alarm.lower() == "s":
           
               ''')
         
-        print("You speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss immeadiately calls you into his office and lets you know that this is the last straw.. You clearly have no respect for punctuality! You're fired :( ")
+        print("\n\n\nYou speed to work but still end up being 20 minutes late.. As soon as you arrive, Your boss immeadiately calls you into his office and lets you know that this is the last straw.. You clearly have no respect for punctuality! You're fired :( \n\n")
 
         print('''
         
@@ -303,7 +307,7 @@ if alarm.lower() == "s":
 
               ''')
 else:
-    print("You jump out of bed, make yourself a cup of coffee, and sit on the couch to watch the news for a minute while you drink it...")
+    print("\n\n\nYou jump out of bed, make yourself a cup of coffee, and sit on the couch to watch the news for a minute while you drink it...\n\n")
     print('''
 
                     -._
@@ -324,7 +328,7 @@ else:
             './  './   '...-'            |_._|
 
           ''')
-    print("**BUZZZZ** **BUZZZ** your phone is ringing.. it's your work calling.. You look at the time- 11:30?!?! You must have dozed off after you turned on the TV.. this is terrible.. you nervously pick up the call..")
+    print("\n\n**BUZZZZ** **BUZZZ** your phone is ringing.. \nit's your work calling.. \n\nYou look at the time- 11:30?!?! \nYou must have dozed off after you turned on the TV.. this is terrible.. \n\nyou nervously pick up the call..\n\n")
     print('''
     
            ████████████████████              ████████████                          
@@ -375,7 +379,7 @@ else:
 
           ''')
     
-    print("\nIts your boss on the line.. he is very angry.. He tells you to come in immediately, clean out our desk area and get lost! You're fired! :(\n")
+    print("\nIts your boss on the line.. he is very angry.. \nHe tells you to come in immediately, clean out our desk area and get lost! You're fired! :(\n\n")
     print('''
     
                               ,::++I7?~                                     
