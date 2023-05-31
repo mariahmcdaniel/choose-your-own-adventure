@@ -413,7 +413,7 @@ else:
 
           ''')
     
-    print("\nIts your boss on the line.. he is very angry.. \nHe tells you to come in immediately, clean out our desk area and get lost! You're fired! :(\n\n")
+    print("\nIts your boss on the line.. he is very angry.. \n\n         He tells you to come in immediately, clean out our desk area and get lost! \n\n\nYou're fired! :(\n\n")
     print('''
     
                               ,::++I7?~                                     
